@@ -32,7 +32,7 @@ Me chamo Matheus Germann, tenho 18 anos e sou natural do Rio Grande do Sul. Conc
             title="Me Adicione no Discord" 
             src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"    
         />
-    <a href="matheusgermannti@gmail.com">
+    <a href="mailto:matheusgermannti@gmail.com">
         <img 
             alt="Gmail" 
             title="Me Mande Mensagem no Gmail" 

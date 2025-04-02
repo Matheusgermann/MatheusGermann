@@ -113,3 +113,9 @@ Me chamo Matheus Germann, tenho 18 anos e sou natural do Rio Grande do Sul. Conc
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheusgermann&show_icons=true&theme=dark&layout=compact&locale=pt-br" alt="Matheusgermann"
     />
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheusgermann/Matheusgermann/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheusgermann/Matheusgermann/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matheusgermann/Matheusgermann/output/github-contribution-grid-snake.svg">
+</picture>

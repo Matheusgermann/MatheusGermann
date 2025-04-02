@@ -100,7 +100,7 @@ Me chamo Matheus Germann, tenho 18 anos e sou natural do Rio Grande do Sul. Conc
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Matheusgermann&show_icons=true&theme=dark&locale=pt-br" alt="Matheusgermann"
     />
@@ -108,7 +108,7 @@ Me chamo Matheus Germann, tenho 18 anos e sou natural do Rio Grande do Sul. Conc
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheusgermann&show_icons=true&theme=dark&layout=compact&locale=pt-br" alt="Matheusgermann"
     />

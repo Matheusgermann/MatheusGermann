@@ -8,7 +8,7 @@
 
 Me chamo Matheus Germann, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no SESI com curso técnico em Automação Industrial, e atualmente curso Análise e Desenvolvimento de Sistemas na Cesuca. Sou apaixonado por tecnologia e estou sempre buscando aprender mais para me tornar um desenvolvedor completo.
 
-
+</br>
 
 ## 💼 Projetos em Destaque
 
@@ -19,7 +19,7 @@ Me chamo Matheus Germann, tenho 18 anos e sou natural do Rio Grande do Sul. Conc
 
 > ⚙️ *Mais projetos em breve com React e backend em Node.js.*
 
----
+</br>
 
 ## 🛠️ Tecnologias que domino
 
@@ -28,10 +28,9 @@ Me chamo Matheus Germann, tenho 18 anos e sou natural do Rio Grande do Sul. Conc
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" />
 </div>
 
----
+</br>
 
 ## 📬 Contato
 
@@ -40,7 +39,7 @@ Me chamo Matheus Germann, tenho 18 anos e sou natural do Rio Grande do Sul. Conc
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/germann.gsm)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wHtYzgVW)
 
----
+</br>
 
 ## 📊 Estatísticas GitHub
 

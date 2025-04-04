@@ -1,121 +1,57 @@
 # 👨🏻‍💻 Matheus Germann
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack em formação`**  
 
-Me chamo Matheus Germann, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no SESI, com o curso técnico em Automação Industrial. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cesuca. Sempre tive interesse por programação e tecnologia, o que me ajuda a aprender com mais rapidez. Embora ainda esteja em processo de aprendizagem, busco constantemente aprimorar minhas habilidades para me tornar um profissional qualificado e preparado para o mercado de trabalho.
 
-<p align="left"> 
-    <a href="https://github.com/MatheusGermann?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Matheusgermann?color=787312&style=for-the-badge&labelColor=787312&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Matheusgermann?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Matheusgermann?color=236ad3&labelColor=236ad3&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
 
- <p align="left">   
-    <a href="https://www.instagram.com/germann.gsm">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369"
-        />   
-    <a href="https://discord.gg/wHtYzgVW">
-        <img 
-            alt="Discord" 
-            title="Me Adicione no Discord" 
-            src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"    
-        />
-    <a href="mailto:matheusgermannti@gmail.com">
-        <img 
-            alt="Gmail" 
-            title="Me Mande Mensagem no Gmail" 
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"    
-        />
-    <a href="https://www.linkedin.com/in/matheus-germann">
-        <img 
-            alt="Linkedin" 
-            title="Me Conheça no Linkedin" 
-            src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6"
-        />
+## 🧠 Sobre mim
+
+Me chamo Matheus Germann, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no SESI com curso técnico em Automação Industrial, e atualmente curso Análise e Desenvolvimento de Sistemas na Cesuca. Sou apaixonado por tecnologia e estou sempre buscando aprender mais para me tornar um desenvolvedor completo.
+
+
+
+## 💼 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Link |
+|--------|------------|-------------|------|
+| 🎮 **Game Stats** | Registro e estatísticas de horas jogadas, com sistema de login em desenvolvimento. | HTML, CSS, JS | [Ver projeto](https://github.com/MatheusGermann/Game_Stats) |
+| 🧢 **Site de Roupas** | Loja de streetwear com filtro de produtos, página de item e carrinho de compras. | HTML, CSS, JS | [Ver projeto](https://github.com/MatheusGermann/Site_de_Roupas) |
+
+> ⚙️ *Mais projetos em breve com React e backend em Node.js.*
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Tecnologias que domino
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-/>
+<div style="display: flex; gap: 10px;">
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" />
+</div>
 
-          
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+## 📬 Contato
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="175" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Matheusgermann&show_icons=true&theme=dark&locale=pt-br" alt="Matheusgermann"
-    />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-germann)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusgermannti@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/germann.gsm)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wHtYzgVW)
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="175" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheusgermann&show_icons=true&theme=dark&layout=compact&locale=pt-br" alt="Matheusgermann"
-    />
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheusgermann&show_icons=true&theme=dark&locale=pt-br" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusgermann&layout=compact&theme=dark&locale=pt-br" />
 </p>
 
-<picture align="center">
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheusgermann/Matheusgermann/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheusgermann/Matheusgermann/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matheusgermann/Matheusgermann/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheusgermann/Matheusgermann/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matheusgermann/Matheusgermann/output/github-contribution-grid-snake.svg">
 </picture>

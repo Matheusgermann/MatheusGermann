@@ -16,6 +16,7 @@ Me chamo Matheus Germann, tenho 18 anos e sou natural do Rio Grande do Sul. Conc
 |--------|------------|-------------|------|
 | 🎮 **Game Stats** | Registro e estatísticas de horas jogadas, com sistema de login em desenvolvimento. | HTML, CSS, JS | [Ver projeto](https://github.com/MatheusGermann/Game_Stats) |
 | 🧢 **Site de Roupas** | Loja de streetwear com filtro de produtos, página de item e carrinho de compras. | HTML, CSS, JS | [Ver projeto](https://github.com/MatheusGermann/Site_de_Roupas) |
+| 🥗 **Gmacro** | Calculadora de calorias e macronutrientes com base nos dados pessoais e objetivos de saúde. | React, Tailwind CSS, HTML, CSS, TS, JS | [Ver projeto](https://github.com/MatheusGermann/gmacro_calculadora_fitness_web) |
 
 > ⚙️ *Mais projetos em breve com React e backend em Node.js.*
 

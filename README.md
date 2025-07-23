@@ -1,12 +1,12 @@
 # 👨🏻‍💻 Matheus Germann
 
-**`Desenvolvedor FullStack em formação`**  
+**`Cientistra de Dados em Formação`**  
 
 
 
 ## 🧠 Sobre mim
 
-Me chamo Matheus Germann, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no SESI com curso técnico em Automação Industrial, e atualmente curso Análise e Desenvolvimento de Sistemas na Cesuca. Sou apaixonado por tecnologia e estou sempre buscando aprender mais para me tornar um desenvolvedor completo.
+Me chamo Matheus Germann, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no SESI com curso técnico em Automação Industrial, e atualmente curso Análise e Desenvolvimento de Sistemas na Cesuca. Sou apaixonado por tecnologia e estou sempre buscando aprender mais para me tornar um profissional completo.
 
 </br>
 
@@ -22,7 +22,7 @@ Me chamo Matheus Germann, tenho 18 anos e sou natural do Rio Grande do Sul. Conc
 
 </br>
 
-## 🛠️ Tecnologias que domino
+## 🛠️ Tecnologias que prático
 
 <div style="display: flex; gap: 10px;">
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" />

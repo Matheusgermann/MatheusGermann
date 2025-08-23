@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Matheus Germann <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/cd9335e7-244b-47d1-aadb-e000dafa9b16" />
+# 👨🏻‍💻 Matheus Germann <img width="256" height="50" alt="image" src="https://github.com/user-attachments/assets/cd9335e7-244b-47d1-aadb-e000dafa9b16" />
 
 
 **`Cientistra de Dados em Formação`**  

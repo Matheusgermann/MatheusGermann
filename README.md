@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Matheus Germann
+# 👨🏻‍💻📈 Matheus Germann
 
 **`Aspiring Data Scientist`**  
 

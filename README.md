@@ -13,7 +13,7 @@ My name is Matheus, I’m 18 years old, I live in Brazil, and I am a Data Scienc
 
 | Project | Description | Technologies | Link |
 |--------|------------|-------------|------|
-| 📊 **Correlation & Regression** | Application of correlation and linear regression in digital campaigns and financial markets, with analysis in Python. | Python, Pandas, Seaborn, Matplotlib | [View project](https://github.com/MatheusGermann/correlacao-regressao-mercado-financeiro) |
+| 📊 **Correlation & Regression** | Application of correlation and linear regression in digital campaigns and financial markets, with analysis in Python. | Python, Pandas, Seaborn, Matplotlib | [View project](https://github.com/MatheusGermann/correlacao-regressao-marketing-fin) |
 | 🎮 **Game Stats** | Records and statistics of hours played, with a login system under development. | HTML, CSS, JS | [Ver projeto](https://github.com/MatheusGermann/Game_Stats) |
 | 🧢 **Clothing Store** | Streetwear shop with product filtering, item page, and shopping cart. | HTML, CSS, JS | [Ver projeto](https://github.com/MatheusGermann/Site_de_Roupas) |
 

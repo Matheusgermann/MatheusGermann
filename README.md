@@ -23,11 +23,15 @@ My name is Matheus, I’m 18 years old, I live in Brazil, and I am a Data Scienc
 
 ## 🛠️ Tools & Technologies
 
-<div style="display: flex; gap: 10px;">
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" title="Excel" style="filter: invert(40%) sepia(80%) saturate(600%) hue-rotate(100deg) brightness(95%) contrast(90%);" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" title="Power BI" style="filter: invert(78%) sepia(97%) saturate(418%) hue-rotate(0deg) brightness(103%) contrast(102%);" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" title="n8n" style="filter: invert(53%) sepia(45%) saturate(600%) hue-rotate(5deg) brightness(95%) contrast(100%);" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" />
+
 </div>
 
 </br>
@@ -37,7 +41,6 @@ My name is Matheus, I’m 18 years old, I live in Brazil, and I am a Data Scienc
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-germann)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusgermannti@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/germann.gsm)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wHtYzgVW)
 
 </br>
 

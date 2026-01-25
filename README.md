@@ -6,7 +6,7 @@
 
 ## 🧠 About me
 
-My name is Matheus, I’m 19 years old, I live in Brazil, and I am a Data Science student with a technical degree in Industrial Automation and practical experience in maintenance and process automation. I have skills in SQL, Python, Excel, Power BI, n8n, and Machine Learning fundamentals, applied in courses and projects focused on data analysis, visualization, and data transformation. I aim to apply my skills to generate value through data, combining technical knowledge, analytical thinking, and dedication.
+My name is Matheus, I’m 19 years old, I live in Brazil, and I am a Data Science student with a technical degree in Industrial Automation and practical experience in maintenance and process automation. I have skills in SQL, Python, Excel, Power BI, and Machine Learning fundamentals, applied in courses and projects focused on data analysis, visualization, and data transformation. I aim to apply my skills to generate value through data, combining technical knowledge, analytical thinking, and dedication.
 </br>
 
 ## 📌 Featured Projects
@@ -19,7 +19,7 @@ My name is Matheus, I’m 19 years old, I live in Brazil, and I am a Data Scienc
 | 🎮 **Game Stats** | Records and statistics of hours played, with a login system under development. | HTML, CSS, JS | [Ver projeto](https://github.com/MatheusGermann/Game_Stats) |
 
 
-> ⚙️ *More projects coming soon, utilizing Python, SQL, Excel, Power BI, n8n, and Machine Learning.*
+> ⚙️ *More projects coming soon, utilizing Python, SQL, Excel, Power BI, and Machine Learning.*
 
 </br>
 

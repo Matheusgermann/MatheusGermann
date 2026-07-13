@@ -1,6 +1,6 @@
 # 👨🏻‍💻📈 Matheus Germann
 
-**`Data Scientist Intern`**
+**`Data Scientist`**
 
 ## 🧠 About me
 

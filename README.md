@@ -1,31 +1,30 @@
 # 👨🏻‍💻📈 Matheus Germann
 
-**`Aspiring Data Scientist`**  
-
-
+**`Data Scientist Intern | Data Engineering Enthusiast`**
 
 ## 🧠 About me
 
-My name is Matheus, I’m 19 years old, I live in Brazil, and I am a Data Science student with a technical degree in Industrial Automation and practical experience in maintenance and process automation. I have skills in SQL, Python, Excel, Power BI, and Machine Learning fundamentals, applied in courses and projects focused on data analysis, visualization, and data transformation. I aim to apply my skills to generate value through data, combining technical knowledge, analytical thinking, and dedication.
+I am a Data Professional with a technical background in Industrial Automation, currently transitioning into Data Science and Analytics. My practical experience in process automation and maintenance has given me a systemic view of complex problems, which I now apply to data engineering pipelines and machine learning models.
+
+I specialize in building end-to-end solutions, from raw data ingestion to predictive modeling and executive dashboards. Passionate about transforming data into actionable business insights, my core tech stack includes Python, SQL, Databricks, Genie Agents(Databricks), Power BI, YOLO and ML frameworks. I combine technical rigor with analytical thinking, constantly seeking opportunities to generate strategic value through data-driven decisions.
 </br>
 
 ## 📌 Featured Projects
 
 | Project | Description | Technologies | Link |
 |--------|------------|-------------|------|
-| 📊 **Correlation & Regression** | Application of correlation and linear regression in digital campaigns and financial markets, with analysis in Python. | Python, Pandas, Seaborn, Matplotlib | [View project](https://github.com/MatheusGermann/correlacao-regressao-marketing-fin) |
-| 🎓 **Student Habits & Academic Performance** | Statistical analysis of study habits and their impact on academic performance, applying confidence intervals with Python. | Python, Pandas, Numpy, Matplotlib | [View project](https://github.com/MatheusGermann/impacto-habitos-estudo) |
-| ✅ **Excel Business Control** | Excel-based system for managing expenses, sales, inventory and results, with dashboards, charts and advanced formulas. | Excel, VBA, Pivot Tables, Charts | [View project](https://github.com/MatheusGermann/excel-analise-de-dados) |
-| 🎮 **Game Stats** | Records and statistics of hours played, with a login system under development. | HTML, CSS, JS | [Ver projeto](https://github.com/MatheusGermann/Game_Stats) |
+| 🚦 **IITLS (Intelligent Integrated Traffic Light System)** | Smart traffic management system aimed at optimizing urban mobility. 🏆 **National Finalist at Red Bull Basement**. | Python, IoT, Computer Vision, Machine Learning | [View project](https://github.com/Matheusgermann/IITLS) |
+| 🛒 **Olist E-commerce Analytics** | End-to-end Data Engineering pipeline using Medallion Architecture (Bronze/Silver/Gold) to create an RFM customer segmentation model. | Databricks, PySpark, Delta Lake, Power BI | [View project](https://github.com/Matheusgermann/Marketing_Project_Olist) |
+| ✈️ **NASA Turbofan RUL Prediction** | Predictive maintenance Machine Learning model estimating the Remaining Useful Life (RUL) of aircraft engines using regression techniques. | Python, Pandas, Scikit-Learn, Seaborn | [View project](https://github.com/Matheusgermann/Linear_and_Polynomial_Regression_NASA_Turbofan) |
 
 
-> ⚙️ *More projects coming soon, utilizing Python, SQL, Excel, Power BI, and Machine Learning.*
+> ⚙️ *Always building and learning. Focused on scalable architectures, predictive modeling, and business intelligence.*
 
 </br>
 
 ## 🛠️ Tools & Technologies
 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" title="PySpark"/> <img width="30px" src="https://cdn.simpleicons.org/databricks/FF3621" title="Databricks"/>
 </div>
 
 </br>
@@ -33,18 +32,9 @@ My name is Matheus, I’m 19 years old, I live in Brazil, and I am a Data Scienc
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-germann)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusgermannti@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/germann.gsm)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusgermann@matheusgermann.com)
 
 </br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheusgermann&show_icons=true&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusgermann&layout=compact&theme=dark" />
-</p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheusgermann/Matheusgermann/output/github-contribution-grid-snake-dark.svg">

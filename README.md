@@ -3,9 +3,9 @@
 
 ## 🧠 About me
 
-I am a Data Professional with a technical background in Industrial Automation, currently transitioning into Data Science and Analytics. My practical experience in process automation and maintenance has given me a systemic view of complex problems, which I now apply to data engineering pipelines and machine learning models.
+I am a Data Professional combining a technical background in Industrial Automation with practical experience in Data Science and Analytics. My foundational knowledge in process automation and maintenance gives me a systemic view of technical challenges, which I apply to data engineering pipelines and machine learning models.
 
-I specialize in building end-to-end solutions, from raw data ingestion to predictive modeling and executive dashboards. Passionate about transforming data into actionable business insights, my core tech stack includes Python, SQL, Databricks, Genie Agents (Databricks), Power BI, YOLO and ML frameworks. I combine technical rigor with analytical thinking, constantly seeking opportunities to generate strategic value through data-driven decisions.
+I work on building end-to-end solutions, from raw data ingestion to predictive modeling and executive dashboards. Passionate about transforming data into actionable insights, my core tech stack includes Python, SQL, Databricks, Genie Agents (Databricks), Power BI, YOLO, and ML frameworks. I combine technical rigor with analytical thinking, constantly seeking opportunities to generate value through data-driven decisions.
 
 </br>
 
@@ -36,7 +36,7 @@ I specialize in building end-to-end solutions, from raw data ingestion to predic
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-germann)
-[![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:matheusgermann@matheusgermann.com)
+![Email](https://img.shields.io/badge/Email-matheusgermann%40matheusgermann.com-333?style=for-the-badge&logo=gmail&logoColor=white)
 
 </br>
 
